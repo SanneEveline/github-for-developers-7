@@ -3,3 +3,4 @@
 * favorite food: Indonesian
 * A hobby: speed skating
 * Favorite color: blue
+* Favorite book: anything
